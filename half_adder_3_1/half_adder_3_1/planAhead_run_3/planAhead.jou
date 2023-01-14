@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Mon Jan 09 02:16:10 2023
+# Process ID: 7968
+# Log file: C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/planAhead_run_3/planAhead.log
+# Journal file: C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/planAhead_run_3/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/pa.fromNetlist.tcl}

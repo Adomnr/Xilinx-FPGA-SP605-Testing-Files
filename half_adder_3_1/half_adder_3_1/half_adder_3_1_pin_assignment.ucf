@@ -1,0 +1,5 @@
+NET "a" LOC = SW5;
+NET "b" LOC = SW4;
+
+NET "s" LOC = DS3;
+NET "c" LOC = DS4;

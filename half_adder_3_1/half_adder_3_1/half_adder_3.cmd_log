@@ -1,0 +1,27 @@
+xst -intstyle ise -ifn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.xst" -ofn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim half_adder_3.ngc half_adder_3_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.xst" -ofn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.xst" -ofn "C:/Users/user/Desktop/Internship FIles/half_adder_3_1/half_adder_3_1/half_adder_3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc half_adder_3_1_pin_assignment.ucf -p xc6slx45t-fgg484-3 "half_adder_3.ngc" half_adder_3.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_3_map.ncd half_adder_3.ngd half_adder_3.pcf 
