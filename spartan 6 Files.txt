@@ -1,0 +1,6 @@
+Spartan 6 kit parts
+
+XC6SLX45T
+
+Spartan-6 XC6SLX45T-FGG484-3C FPGA
+
