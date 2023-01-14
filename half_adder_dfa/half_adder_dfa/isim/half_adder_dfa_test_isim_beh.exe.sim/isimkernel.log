@@ -1,0 +1,28 @@
+Command line:
+   half_adder_dfa_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53656
+
+Mon Jan 09 00:45:44 2023
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5156.62 Meg
+
+ Total Signals          : 19
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 99
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5156.62 Meg
+
+Mon Jan 09 00:46:06 2023
+

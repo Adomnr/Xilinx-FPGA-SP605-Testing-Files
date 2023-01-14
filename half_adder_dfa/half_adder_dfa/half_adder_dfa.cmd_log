@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/user/Desktop/Internship FIles/half_adder_dfa/half_adder_dfa/half_adder_dfa.xst" -ofn "C:/Users/user/Desktop/Internship FIles/half_adder_dfa/half_adder_dfa/half_adder_dfa.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 "half_adder_dfa.ngc" half_adder_dfa.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o half_adder_dfa_map.ncd half_adder_dfa.ngd half_adder_dfa.pcf 
+par -w -intstyle ise -ol high -mt off half_adder_dfa_map.ncd half_adder_dfa.ncd half_adder_dfa.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml half_adder_dfa.twx half_adder_dfa.ncd -o half_adder_dfa.twr half_adder_dfa.pcf 
